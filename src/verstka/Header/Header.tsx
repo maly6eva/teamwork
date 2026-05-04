@@ -1,5 +1,5 @@
 import miro from "../../../img/miro.svg"
-import frame from "../../../img/frime.svg"
+import frame from "../../../img/frame.svg"
 
 export const Header = () => {
     return (
@@ -18,6 +18,7 @@ export const Header = () => {
             <li>
                 <img src={frame} alt="frame"/>
             </li>
+            <button>Регистрация</button>
         </ul>
     </header>
     );
