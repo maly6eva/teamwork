@@ -1,0 +1,193 @@
+h1{
+    color: #050038;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: 1px;
+    margin: 0 0 17px 0;
+}
+
+.section1{
+    margin: 0 51px 128px 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.section1div{
+    margin: 0 65px 0 0;
+}
+
+.herroText{
+    width: 424px;
+    height: 48px;
+    margin: 0 0 55px 0;
+    color: #050038;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.heroForm input {
+    border-radius: 32px;
+    border: 1px solid #9B99AF;
+    height: 48px;
+    width: 440px;
+    margin: 0 0 10px 0;
+}
+
+.heroForm button {
+    border-radius: 32px;
+    border: 1px solid #9B99AF;
+    height: 51px;
+    background-color: #4262FF;
+    color: #FFFFFF;
+    width: 440px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 8px 0;
+}
+
+.heroForm + p {
+        margin: 0 0 52px 0;
+}
+
+.sectionA {
+    color: #050038;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.section1card1{
+    width: 60px;
+    height: 33px;
+}
+
+.section1card2{
+    width: 39px;
+    height: 33px;
+}
+
+.section1card3{
+    width: 45px;
+    height: 33px;
+}
+
+.section1card4 {
+    width: 27px;
+    height: 33px;
+}
+
+.section1card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.heroCart{
+    width: 604px;
+    height: 461px;
+}
+
+.heroCart{
+    margin: 0 0 40px 0;
+}
+/*--------------------*/
+.section2{
+    margin: 0 40px 120px 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 116px;
+}
+
+.sectionText2{
+    width: 436px;
+    height: 120px;
+    color: rgba(5, 0, 56, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 39px 0;
+}
+.sectionP2{
+    color: #050038;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: 1px;
+    width: 454px;
+    margin: 0 0 19px 0;
+}
+/*---------------*/
+.section3{
+    display: flex;
+    margin: 0 66px 120px 40px;
+    gap: 115px;
+}
+.sectionP3{
+    width: 432px;
+    height: 168px;
+    color: #050038;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: 1px;
+    margin: 63px 0 19px 0;
+}
+.sectionText3{
+    color: rgba(5, 0, 56, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 133.333% */
+    width: 429px;
+    height: 120px;
+    margin: 0 0 39px 0;
+}
+.sectionA3{
+    color: #4262FF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    border-bottom: 2px solid #4262FF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
