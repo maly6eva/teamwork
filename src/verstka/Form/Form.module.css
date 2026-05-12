@@ -1,0 +1,130 @@
+.form {
+    width: 790px;
+    height: 600px;
+    padding: 40px;
+    color: #fff;
+    background: #1E1F29;
+
+}
+
+.formName {
+    font-family: Fira Sans sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0 0 32px 0;
+    text-align: center;
+    color: #FAFAFA;
+}
+
+.section {
+    position: relative;
+    width: 697px;
+    height: 58px;
+    /*top: 123px;*/
+    /*left: 48px;*/
+    margin: 0 48px 16px 48px;
+    padding: 12px 0 12px 16px;
+    text-align: center;
+    opacity: 1;
+    border-radius: 10px;
+    background: #2E2D3D;
+}
+
+.sectionImg {
+    position: absolute;
+    top: 27px;
+    left: 16px;
+    width: 24px;
+    height: 24px;
+}
+
+.label {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 120%; /* 14.4px */
+    position: absolute;
+    top: 12px;
+    left: 48px;
+    color: #AFB2BF;
+}
+
+.input {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 120%; /* 19.2px */
+    position: absolute;
+    top: 27px;
+    left: 48px;
+    color: #FAFAFA;
+    border: none;
+    background: #2E2D3D;
+}
+
+.labelTextarea {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 120%; /* 14.4px */
+    position: absolute;
+    top: 12px;
+    left: 24px;
+    color: #AFB2BF;
+}
+
+.sectionTextarea {
+    position: relative;
+    width: 697px;
+    height: 135px;
+    /*top: 123px;*/
+    /*left: 48px;*/
+    margin: 0 48px 16px 48px;
+    padding: 12px 0 12px 16px;
+    opacity: 1;
+    border-radius: 10px;
+    background: #2E2D3D;
+}
+
+.textarea {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 16px;
+    position: absolute;
+    top: 27px;
+    left: 24px;
+    /* Body 16 150% */
+    width: 650px;
+    height: 96px;
+    color: #FAFAFA;
+    /*padding: 27px 24px 12px;*/
+    border: none;
+    background: #2E2D3D;
+}
+.button{
+    width: 715px;
+    height: 50px;
+    padding: 12px 24px;
+    border-radius: 10px;
+    background: #6C38CC;
+    color: #FAFAFA;
+    text-align: center;
+
+    /* Button */
+    font-family: "Fira Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 21.6px */
+    margin: 0 0 48px 48px;
+    transition: background-color 3s 1s, border-radius 2s 1s
+}
+
+.button:hover{
+    background: #000;
+    border-radius: 30px;
+}
+
+
