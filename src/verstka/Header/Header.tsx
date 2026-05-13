@@ -9,8 +9,8 @@ export const Header = () => {
             {/*    <div className={style.header__left}>*/}
             {/*        <img src={miro} alt="img"/>*/}
 
-                    <nav>
-                        <ul>
+                    <nav className={style.headerNav}>
+                        <ul  className={style.headerUl}>
                             <li className={style.li} style={{color: "blue"}}>Продукт</li>
                             <li className={style.li}>Решения</li>
                             <li className={style.li}>Решения</li>
